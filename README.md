@@ -6,3 +6,4 @@ ecomerce website
 react project
 nozeela collection
 payment integration
+cart component
